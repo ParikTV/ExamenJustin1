@@ -1,0 +1,50 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Library Reservations</string>
+
+    <!-- Field Hints -->
+    <string name="bib_student_name_hint">Student Name</string>
+    <string name="bib_book_code_hint">Book Code</string>
+    <string name="bib_book_name_hint">Book Name</string>
+    <string name="bib_reservation_date_hint">Reservation Date (YYYY-MM-DD)</string>
+    <string name="bib_return_date_hint">Return Date (YYYY-MM-DD)</string>
+    <string name="bib_library_location_hint">Library Location</string>
+
+    <!-- Buttons -->
+    <string name="bib_save">Save</string>
+    <string name="bib_cancel">Cancel</string>
+    <string name="bib_remove">Remove</string>
+    <string name="bib_add">Add</string>
+    <string name="bib_view">View</string>
+    <string name="bib_save_reservation">Save Reservation</string>
+
+    <!-- Labels -->
+    <string name="bib_student_name">Student Name</string>
+    <string name="bib_book_code">Book Code</string>
+    <string name="bib_book_name">Book Name</string>
+    <string name="bib_reservation_date">Reservation Date</string>
+    <string name="bib_return_date">Return Date</string>
+    <string name="bib_library_location">Library Location</string>
+
+    <!-- Toast Messages -->
+    <string name="reservation_saved">Reservation saved!</string>
+    <string name="reservation_updated">Reservation updated!</string>
+    <string name="reservation_deleted">Reservation deleted!</string>
+    <string name="reservation_not_found">Reservation not found!</string>
+    <string name="reservation_duplicate">Duplicate reservation!</string>
+    <string name="invalid_date_format">Invalid date format</string>
+
+    <!-- Field Error Messages -->
+    <string name="error_student_name">Student name is required</string>
+    <string name="error_book_code">Book code is required</string>
+    <string name="error_book_name">Book name is required</string>
+    <string name="error_library_location">Library location is required</string>
+    <string name="error_return_date">Return date must be after the reservation date</string>
+
+    <!-- Button and Interface Text -->
+    <string name="update_button_text">Update</string>
+
+    <string name="bib_title">Library Reservations</string>
+    <string name="bib_view_reservations">View Reservations</string>
+    <string name="bib_add_new_reservation">Add New Reservation</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Reservas de Biblioteca</string>
+
+    <!-- Botones -->
+    <string name="bib_save">Guardar</string>
+    <string name="bib_cancel">Cancelar</string>
+    <string name="bib_remove">Eliminar</string>
+    <string name="bib_add">Agregar</string>
+    <string name="bib_view">Ver</string>
+    <string name="bib_save_reservation">Guardar Reservación</string>
+
+    <!-- Etiquetas de campos -->
+    <string name="bib_student_name">Nombre del Estudiante</string>
+    <string name="bib_book_code">Código del Libro</string>
+    <string name="bib_book_name">Nombre del Libro</string>
+    <string name="bib_reservation_date">Fecha de Reservación</string>
+    <string name="bib_return_date">Fecha de Devolución</string>
+    <string name="bib_library_location">Ubicación de la Biblioteca</string>
+
+    <!-- Pistas de campos -->
+    <string name="bib_student_name_hint">Nombre del Estudiante</string>
+    <string name="bib_book_code_hint">Código del Libro</string>
+    <string name="bib_book_name_hint">Nombre del Libro</string>
+    <string name="bib_reservation_date_hint">Fecha de Reservación (AAAA-MM-DD)</string>
+    <string name="bib_return_date_hint">Fecha de Devolución (AAAA-MM-DD)</string>
+    <string name="bib_library_location_hint">Ubicación de la Biblioteca</string>
+
+    <!-- Mensajes de Toast -->
+    <string name="reservation_saved">¡Reserva guardada!</string>
+    <string name="reservation_updated">¡Reserva actualizada!</string>
+    <string name="reservation_deleted">¡Reserva eliminada!</string>
+    <string name="reservation_not_found">¡Reserva no encontrada!</string>
+    <string name="reservation_duplicate">¡Reserva duplicada!</string>
+    <string name="invalid_date_format">Formato de fecha incorrecto</string>
+
+    <!-- Mensajes de error en campos -->
+    <string name="error_student_name">El nombre del estudiante es obligatorio</string>
+    <string name="error_book_code">El código del libro es obligatorio</string>
+    <string name="error_book_name">El nombre del libro es obligatorio</string>
+    <string name="error_library_location">La ubicación de la biblioteca es obligatoria</string>
+    <string name="error_return_date">La fecha de devolución debe ser posterior a la fecha de reserva</string>
+
+    <!-- Texto de botones y otros textos de la interfaz -->
+    <string name="update_button_text">Actualizar</string>
+
+    <string name="bib_title">Reservas de Biblioteca</string>
+    <string name="bib_view_reservations">Ver Reservas</string>
+    <string name="bib_add_new_reservation">Añadir Nueva Reserva</string>
+</resources>
